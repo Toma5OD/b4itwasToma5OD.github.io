@@ -89,9 +89,9 @@
         },
         "pois": [
             {
-                "name": "**Little Saltee Island**",
-                "nameHtml": "<p><strong>Little Saltee Island</strong></p>\n",
-                "safeName": "Little-Saltee-Island",
+                "name": "**Nagasaki**",
+                "nameHtml": "<p><strong>Nagasaki</strong></p>\n",
+                "safeName": "Nagasaki",
                 "coordinates": {
                     "irishGrid": {
                         "sheet": "X",
@@ -109,8 +109,8 @@
                         "northings": "599655.89"
                     },
                     "geo": {
-                        "lat": "52.14031776",
-                        "long": -6.58976231
+                        "lat": "32.7503",
+                        "long": 129.8779
                     }
                 },
                 "cursor": 25766,
@@ -129,9 +129,9 @@
         },
         "pois": [
             {
-                "name": "**Carrig Island**",
-                "nameHtml": "<p><strong>Carrig Island</strong></p>\n",
-                "safeName": "Carrig-Island",
+                "name": "**Reggane, Sahara Desert, Algeria**",
+                "nameHtml": "<p><strong>Reggane, Sahara Desert, Algeria</strong></p>\n",
+                "safeName": "Reggane,-Sahara-Desert,-Algeria",
                 "coordinates": {
                     "irishGrid": {
                         "sheet": "Q",
@@ -149,8 +149,8 @@
                         "northings": "648645.831"
                     },
                     "geo": {
-                        "lat": "52.57946585",
-                        "long": -9.50984344
+                        "lat": "25.275963",
+                        "long": -1.520862
                     }
                 },
                 "cursor": 71528,
@@ -169,9 +169,9 @@
         },
         "pois": [
             {
-                "name": "**Black Rock**",
-                "nameHtml": "<p><strong>Black Rock</strong></p>\n",
-                "safeName": "Black-Rock",
+                "name": "**Novaya Zemlya Island, C.I.S.**",
+                "nameHtml": "<p><strong>Novaya Zemlya Island, C.I.S.</strong></p>\n",
+                "safeName": "Novaya-Zemlya-Island,-C.I.S.",
                 "coordinates": {
                     "irishGrid": {
                         "sheet": "G",

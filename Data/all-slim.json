@@ -62,8 +62,8 @@
     {
         "title": "China",
         "geo": {
-            "lat": 53.574,
-            "long": -9.382
+            "lat": 25.275963,
+            "long": -1.520862
         },
         "variable": "midWest",
         "pois": [
@@ -82,8 +82,8 @@
     {
         "title": "Africa",
         "geo": {
-            "lat": 54.821,
-            "long": -7.91
+            "lat": 73.61580064,
+            "long": 60.7848987
         },
         "variable": "northWest",
         "pois": [
