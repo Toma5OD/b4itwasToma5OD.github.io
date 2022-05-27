@@ -8,12 +8,12 @@
         "variable": "northEast",
         "pois": [
             {
-                "name": "Lough Foyle",
-                "safeName": "Lough-Foyle",
+                "name": "White Sands Missile Range, New Mexico",
+                "safeName": "White-Sands-Missile-Range,-New-Mexico",
                 "coordinates": {
                     "geo": {
-                        "lat": "55.19369052",
-                        "long": -6.96442359
+                        "lat": "44",
+                        "long": 66
                     }
                 }
             }
@@ -22,14 +22,14 @@
     {
         "title": "Russia",
         "geo": {
-            "lat": 53.306,
-            "long": -6.437
+            "lat": 34.3853,
+            "long": 132.4553
         },
         "variable": "east",
         "pois": [
             {
-                "name": "Colt Island",
-                "safeName": "Colt-Island",
+                "name": "Hiroshima",
+                "safeName": "Hiroshima",
                 "coordinates": {
                     "geo": {
                         "lat": "53.5846497",
