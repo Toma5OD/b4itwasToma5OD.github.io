@@ -42,18 +42,18 @@
     {
         "title": "France",
         "geo": {
-            "lat": 51.851,
-            "long": -8.184
+            "lat": 32.7503,
+            "long": 129.8779
         },
         "variable": "south",
         "pois": [
             {
-                "name": "Little Saltee Island",
-                "safeName": "Little-Saltee-Island",
+                "name": "Nagasaki",
+                "safeName": "Nagasaki",
                 "coordinates": {
                     "geo": {
-                        "lat": "52.14031776",
-                        "long": -6.58976231
+                        "lat": "32.7503",
+                        "long": 129.8779
                     }
                 }
             }
@@ -68,12 +68,12 @@
         "variable": "midWest",
         "pois": [
             {
-                "name": "Carrig Island",
-                "safeName": "Carrig-Island",
+                "name": "Reggane, Sahara Desert, Algeria",
+                "safeName": "Reggane,-Sahara-Desert,-Algeria",
                 "coordinates": {
                     "geo": {
-                        "lat": "52.57946585",
-                        "long": -9.50984344
+                        "lat": "25.275963",
+                        "long": -1.520862
                     }
                 }
             }
@@ -88,12 +88,12 @@
         "variable": "northWest",
         "pois": [
             {
-                "name": "Black Rock",
-                "safeName": "Black-Rock",
+                "name": "Novaya Zemlya Island, C.I.S.",
+                "safeName": "Novaya-Zemlya-Island,-C.I.S.",
                 "coordinates": {
                     "geo": {
-                        "lat": "54.30810138",
-                        "long": -8.61832983
+                        "lat": "73.61580064",
+                        "long": 60.7848987
                     }
                 }
             }
