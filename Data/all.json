@@ -5,7 +5,7 @@
         "identifier": "**The North East**",
         "geo": {
             "lat": 33.2385,
-            "long": 106.3464
+            "long": -106.3464
         },
         "pois": [
             {
@@ -30,7 +30,7 @@
                     },
                     "geo": {
                         "lat": "33.2385",
-                        "long": 106.3464
+                        "long": -106.3464
                     }
                 },
                 "cursor": 142,

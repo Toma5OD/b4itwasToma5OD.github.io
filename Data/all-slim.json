@@ -3,7 +3,7 @@
         "title": "America",
         "geo": {
             "lat": 33.2385,
-            "long": 106.3464
+            "long": -106.3464
         },
         "variable": "northEast",
         "pois": [
@@ -13,7 +13,7 @@
                 "coordinates": {
                     "geo": {
                         "lat": "33.2385",
-                        "long": 106.3464
+                        "long": -106.3464
                     }
                 }
             }
