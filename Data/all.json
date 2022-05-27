@@ -44,8 +44,8 @@
         "variable": "east",
         "identifier": "**The East Coast**",
         "geo": {
-            "lat": 53.5846497,
-            "long": -6.08758199
+            "lat": 34.3853,
+            "long": 132.4553
         },
         "pois": [
             {
@@ -69,8 +69,8 @@
                         "northings": "761120.368"
                     },
                     "geo": {
-                        "lat": "53.5846497",
-                        "long": -6.08758199
+                        "lat": "34.3853",
+                        "long": 132.4553
                     }
                 },
                 "cursor": 13222,
