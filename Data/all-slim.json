@@ -2,8 +2,8 @@
     {
         "title": "America",
         "geo": {
-            "lat": 54.7,
-            "long": -6.141
+            "lat": 33.2385,
+            "long": 106.3464
         },
         "variable": "northEast",
         "pois": [
@@ -12,8 +12,8 @@
                 "safeName": "White-Sands-Missile-Range,-New-Mexico",
                 "coordinates": {
                     "geo": {
-                        "lat": "44",
-                        "long": 66
+                        "lat": "33.2385",
+                        "long": 106.3464
                     }
                 }
             }

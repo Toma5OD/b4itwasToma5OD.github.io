@@ -4,8 +4,8 @@
         "variable": "northEast",
         "identifier": "**The North East**",
         "geo": {
-            "lat": 44,
-            "long": 66
+            "lat": 33.2385,
+            "long": 106.3464
         },
         "pois": [
             {
@@ -29,8 +29,8 @@
                         "northings": "938982.474"
                     },
                     "geo": {
-                        "lat": "44",
-                        "long": 66
+                        "lat": "33.2385",
+                        "long": 106.3464
                     }
                 },
                 "cursor": 142,
