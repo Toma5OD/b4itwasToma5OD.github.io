@@ -1,0 +1,100 @@
+[
+    {
+        "title": "America", //North East
+        "geo": {
+            "lat": 54.7,
+            "long": -6.141
+        },
+        "variable": "northEast",
+        "pois": [
+            {
+                "name": "Lough Foyle",
+                "safeName": "Lough-Foyle",
+                "coordinates": {
+                    "geo": {
+                        "lat": "55.19369052",
+                        "long": -6.96442359
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "title": "Russia",
+        "geo": {
+            "lat": 53.306,
+            "long": -6.437
+        },
+        "variable": "east",
+        "pois": [
+            {
+                "name": "Colt Island",
+                "safeName": "Colt-Island",
+                "coordinates": {
+                    "geo": {
+                        "lat": "53.5846497",
+                        "long": -6.08758199
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "title": "France",
+        "geo": {
+            "lat": 51.851,
+            "long": -8.184
+        },
+        "variable": "south",
+        "pois": [
+            {
+                "name": "Little Saltee Island",
+                "safeName": "Little-Saltee-Island",
+                "coordinates": {
+                    "geo": {
+                        "lat": "52.14031776",
+                        "long": -6.58976231
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "title": "China",
+        "geo": {
+            "lat": 53.574,
+            "long": -9.382
+        },
+        "variable": "midWest",
+        "pois": [
+            {
+                "name": "Carrig Island",
+                "safeName": "Carrig-Island",
+                "coordinates": {
+                    "geo": {
+                        "lat": "52.57946585",
+                        "long": -9.50984344
+                    }
+                }
+            },
+    {
+        "title": "Africa",
+        "geo": {
+            "lat": 54.821,
+            "long": -7.91
+        },
+        "variable": "northWest",
+        "pois": [
+            {
+                "name": "Black Rock",
+                "safeName": "Black-Rock",
+                "coordinates": {
+                    "geo": {
+                        "lat": "54.30810138",
+                        "long": -8.61832983
+                    }
+                }
+            }
+        ]
+    }
+]
