@@ -16,17 +16,17 @@
                         "long": -106.3464
                     }
                 }
-            }
-        ]
-    },
-    {
-        "title": "Russia",
-        "geo": {
-            "lat": 34.3853,
-            "long": 132.4553
-        },
-        "variable": "east",
-        "pois": [
+            },
+            {
+                "name": "Nagasaki",
+                "safeName": "Nagasaki",
+                "coordinates": {
+                    "geo": {
+                        "lat": "32.7503",
+                        "long": 129.8779
+                    }
+                }
+            },
             {
                 "name": "Hiroshima",
                 "safeName": "Hiroshima",
@@ -40,32 +40,32 @@
         ]
     },
     {
-        "title": "France",
+        "title": "Russia",
         "geo": {
-            "lat": 32.7503,
-            "long": 129.8779
+            "lat": 34.3853,
+            "long": 132.4553
         },
-        "variable": "south",
+        "variable": "east",
         "pois": [
             {
-                "name": "Nagasaki",
-                "safeName": "Nagasaki",
+                "name": "Novaya Zemlya Island, C.I.S.",
+                "safeName": "Novaya-Zemlya-Island,-C.I.S.",
                 "coordinates": {
                     "geo": {
-                        "lat": "32.7503",
-                        "long": 129.8779
+                        "lat": "73.61580064",
+                        "long": 60.7848987
                     }
                 }
             }
         ]
     },
     {
-        "title": "China",
+        "title": "France",
         "geo": {
-            "lat": 25.275963,
-            "long": -1.520862
+            "lat": 32.7503,
+            "long": 129.8779
         },
-        "variable": "midWest",
+        "variable": "east",
         "pois": [
             {
                 "name": "Reggane, Sahara Desert, Algeria",
@@ -80,23 +80,21 @@
         ]
     },
     {
+        "title": "China",
+        "geo": {
+            "lat": 25.275963,
+            "long": -1.520862
+        },
+        "variable": "midWest",
+        "pois": []
+    },
+    {
         "title": "Africa",
         "geo": {
             "lat": 73.61580064,
             "long": 60.7848987
         },
         "variable": "northWest",
-        "pois": [
-            {
-                "name": "Novaya Zemlya Island, C.I.S.",
-                "safeName": "Novaya-Zemlya-Island,-C.I.S.",
-                "coordinates": {
-                    "geo": {
-                        "lat": "73.61580064",
-                        "long": 60.7848987
-                    }
-                }
-            }
-        ]
+        "pois": []
     }
 ]
