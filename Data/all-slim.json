@@ -87,14 +87,5 @@
         },
         "variable": "midWest",
         "pois": []
-    },
-    {
-        "title": "Africa",
-        "geo": {
-            "lat": 73.61580064,
-            "long": 60.7848987
-        },
-        "variable": "northWest",
-        "pois": []
     }
 ]
