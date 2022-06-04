@@ -15,7 +15,8 @@
                         "lat": "33.2385",
                         "long": -106.3464
                     }
-                }
+                },
+                "image": "https://res.cloudinary.com/dvw91nuuj/image/upload/v1654340317/images/hiroshima_uspemp.jpg"
             },
             {
                 "name": "Nagasaki",
@@ -25,7 +26,8 @@
                         "lat": "32.7503",
                         "long": 129.8779
                     }
-                }
+                },
+                "image": "https://res.cloudinary.com/dvw91nuuj/image/upload/v1654340317/images/hiroshima_uspemp.jpg"
             },
             {
                 "name": "Hiroshima",
@@ -35,7 +37,8 @@
                         "lat": "34.3853",
                         "long": 132.4553
                     }
-                }
+                },
+                "image": "https://res.cloudinary.com/dvw91nuuj/image/upload/v1654340317/images/hiroshima_uspemp.jpg"
             }
         ]
     },
@@ -55,7 +58,8 @@
                         "lat": "73.61580064",
                         "long": 60.7848987
                     }
-                }
+                },
+                "image": "https://res.cloudinary.com/dvw91nuuj/image/upload/v1654340317/images/hiroshima_uspemp.jpg"
             }
         ]
     },
@@ -75,7 +79,8 @@
                         "lat": "25.275963",
                         "long": -1.520862
                     }
-                }
+                },
+                "image": "https://res.cloudinary.com/dvw91nuuj/image/upload/v1654340317/images/hiroshima_uspemp.jpg"
             }
         ]
     },
